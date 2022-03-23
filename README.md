@@ -1,4 +1,6 @@
 # calculate_Bp_Lp
+
+```
 计算手绘黑子图的经纬度
 """% 计算Bp，Lp
 % 输入手绘黑子图太阳圆半径radii，以圆心为原点的坐标系的坐标(Xa,Ya),
@@ -16,3 +18,4 @@
 % Ya=-22
 % radii=150/2;
 %  [Bp,Lp]=GetBLbyXYPBLR(Xa,Ya,P,B0,L0,radii,appdiam)
+```
